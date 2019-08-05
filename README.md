@@ -1,7 +1,10 @@
 # breast-cancer-diagnosis
 
 ## Installation 
-scikit-learn, matplotlib, numpy, pandas
+scikit-learn
+matplotlib
+numpy
+pandas
 pytorch 1.1.0
 
 ## Usage 
