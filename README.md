@@ -1,11 +1,11 @@
 # breast-cancer-diagnosis
 
 ## Installation 
-scikit-learn
-matplotlib
-numpy
-pandas
-pytorch 1.1.0
+scikit-learn;
+matplotlib;
+numpy;
+pandas;
+pytorch (1.1.0)
 
 ## Usage 
 Implement logistic regression by scikit-learn and pytorch respectively. 
