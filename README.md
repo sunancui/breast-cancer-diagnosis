@@ -11,4 +11,4 @@ Input data: 10 imaging features from digitized image of breast mass.
 Output: prediction of breast cancer diagnosis (1="malignant", 2="benign")
 
 ## Result
-<img src="./breast_cancer.png" width="800">
+<img src="./breast_cancer.png" width="500">
